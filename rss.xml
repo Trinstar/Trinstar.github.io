@@ -3,8 +3,8 @@
     <channel>
         <title>cxrc</title>
         <subtitle></subtitle>
-        <icon>http://trinstar.github.io/assets/favicon.ico</icon>
-        <link>http://Trinstar.github.io</link>
+        <icon>https://trinstar.github.io/assets/favicon.ico</icon>
+        <link>https://trinstar.github.io</link>
         <author>
           <name>Trinstar</name>
         </author>
@@ -13,23 +13,23 @@
         <pubDate>Sun, 29 Jun 2025 14:39:27 +0800</pubDate>
         <lastBuildDate>Sun, 29 Jun 2025 14:39:27 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://trinstar.github.io/2025/06/29/test2/</guid>
+            <guid isPermalink="true">https://trinstar.github.io/2025/06/29/test2/</guid>
             <title></title>
-            <link>http://trinstar.github.io/2025/06/29/test2/</link>
+            <link>https://trinstar.github.io/2025/06/29/test2/</link>
             <pubDate>Sun, 29 Jun 2025 14:39:27 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://trinstar.github.io/2025/06/29/test1/</guid>
+            <guid isPermalink="true">https://trinstar.github.io/2025/06/29/test1/</guid>
             <title></title>
-            <link>http://trinstar.github.io/2025/06/29/test1/</link>
+            <link>https://trinstar.github.io/2025/06/29/test1/</link>
             <pubDate>Sun, 29 Jun 2025 14:39:13 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://trinstar.github.io/2025/06/28/hello-world/</guid>
+            <guid isPermalink="true">https://trinstar.github.io/2025/06/28/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://trinstar.github.io/2025/06/28/hello-world/</link>
+            <link>https://trinstar.github.io/2025/06/28/hello-world/</link>
             <pubDate>Sat, 28 Jun 2025 18:13:33 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;pre&gt;&lt;code class=&#34;bash&#34;&gt;$ hexo new &amp;quot;My New Post&amp;quot;
